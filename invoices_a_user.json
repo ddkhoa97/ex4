@@ -1,0 +1,5 @@
+{"invoices":[
+    {"user_id":1,"invoice_id":"20dc34e1-9919-4aba-8e16-c3d6485c7651","purchases":[{"product_id":1,"qty":1,"price":2000,"total":2000},{"product_id":2,"qty":2,"price":2000,"total":4000}]},
+    {"user_id":1,"invoice_id":"5b251c0e-ca0a-4e0b-ae24-db4e45e3526d","purchases":[{"product_id":1,"qty":1,"price":2000,"total":2000},{"product_id":2,"qty":2,"price":2000,"total":4000}]},
+    {"user_id":1,"invoice_id":"4ee2e4c5-d9ea-4e8c-85b7-7cec1aface18","purchases":[{"product_id":1,"qty":1,"price":2000,"total":2000},{"product_id":2,"qty":2,"price":2000,"total":4000}]},
+    {"user_id":1,"invoice_id":"b7fa1739-33dc-4df0-9213-4a003edca6ef","purchases":[{"product_id":1,"qty":1,"price":2000,"total":2000},{"product_id":2,"qty":2,"price":2000,"total":4000}]}]}
